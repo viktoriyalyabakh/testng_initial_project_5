@@ -1,6 +1,6 @@
 package scripts;
 
-import org.openqa.selenium.WebElement;
+
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -9,8 +9,6 @@ import pages.LoginFormPage;
 import pages.ResetPasswordPage;
 import tastData.PageText;
 import tastData.UserData;
-import utilities.ConfigurationReader;
-import utilities.Waiter;
 
 public class LoginFormTest extends Base {
 

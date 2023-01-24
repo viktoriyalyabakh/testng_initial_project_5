@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf7726ab-9de5-4e96-96b8-561ec2b909b7" name="Changes" comment="add LoginFormPage">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ResetPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tastData/PageText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tastData/UserData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginFormPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/scripts/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/scripts/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/regression.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/scripts/LoginFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/scripts/LoginFormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/scripts/LoginFormTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/scripts/LoginFormTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
