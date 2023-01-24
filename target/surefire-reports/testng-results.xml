@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="scripts.LoginFormTest" duration-ms="110633" started-at="2023-01-24T14:19:54 CST" finished-at="2023-01-24T14:21:45 CST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="110633" started-at="2023-01-24T14:19:54 CST" finished-at="2023-01-24T14:21:45 CST">
+      <class name="scripts.LoginFormTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="16138" started-at="2023-01-24T14:19:54 CST" finished-at="2023-01-24T14:20:11 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="4051" started-at="2023-01-24T14:20:11 CST" finished-at="2023-01-24T14:20:15 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateLoginFormCard()[pri:1, instance:scripts.LoginFormTest@4cf777e8]" name="validateLoginFormCard" duration-ms="410" started-at="2023-01-24T14:20:15 CST" description="Validate Tech Global login form card" finished-at="2023-01-24T14:20:15 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFormCard -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="157" started-at="2023-01-24T14:20:15 CST" finished-at="2023-01-24T14:20:15 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="8851" started-at="2023-01-24T14:20:15 CST" finished-at="2023-01-24T14:20:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="2577" started-at="2023-01-24T14:20:24 CST" finished-at="2023-01-24T14:20:27 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateLoginFormCardValidLogin()[pri:2, instance:scripts.LoginFormTest@4cf777e8]" name="validateLoginFormCardValidLogin" duration-ms="2227" started-at="2023-01-24T14:20:27 CST" description="Validate Tech Global login form card with valid login" finished-at="2023-01-24T14:20:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFormCardValidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="85" started-at="2023-01-24T14:20:29 CST" finished-at="2023-01-24T14:20:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="8229" started-at="2023-01-24T14:20:29 CST" finished-at="2023-01-24T14:20:37 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="2606" started-at="2023-01-24T14:20:37 CST" finished-at="2023-01-24T14:20:40 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateLoginFormCardValidLoginAnaLogout()[pri:3, instance:scripts.LoginFormTest@4cf777e8]" name="validateLoginFormCardValidLoginAnaLogout" duration-ms="2475" started-at="2023-01-24T14:20:40 CST" description="Validate Tech Global login form card with valid login and logout" finished-at="2023-01-24T14:20:42 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFormCardValidLoginAnaLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="103" started-at="2023-01-24T14:20:42 CST" finished-at="2023-01-24T14:20:42 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="8133" started-at="2023-01-24T14:20:42 CST" finished-at="2023-01-24T14:20:50 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="2553" started-at="2023-01-24T14:20:50 CST" finished-at="2023-01-24T14:20:53 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateForgotPasswordLink()[pri:4, instance:scripts.LoginFormTest@4cf777e8]" name="validateForgotPasswordLink" duration-ms="294" started-at="2023-01-24T14:20:53 CST" description="Validate Tech Global forgot password link" finished-at="2023-01-24T14:20:53 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForgotPasswordLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="82" started-at="2023-01-24T14:20:53 CST" finished-at="2023-01-24T14:20:53 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="8056" started-at="2023-01-24T14:20:53 CST" finished-at="2023-01-24T14:21:01 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="3580" started-at="2023-01-24T14:21:01 CST" finished-at="2023-01-24T14:21:05 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateResetLinkIsDisplayed()[pri:5, instance:scripts.LoginFormTest@4cf777e8]" name="validateResetLinkIsDisplayed" duration-ms="842" started-at="2023-01-24T14:21:05 CST" description="Validate reset password link message displayed" finished-at="2023-01-24T14:21:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResetLinkIsDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="84" started-at="2023-01-24T14:21:06 CST" finished-at="2023-01-24T14:21:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="9825" started-at="2023-01-24T14:21:06 CST" finished-at="2023-01-24T14:21:16 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="2391" started-at="2023-01-24T14:21:16 CST" finished-at="2023-01-24T14:21:18 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateLoginFormWithWrongUsername()[pri:6, instance:scripts.LoginFormTest@4cf777e8]" name="validateLoginFormWithWrongUsername" duration-ms="1854" started-at="2023-01-24T14:21:18 CST" description="Validate Tech Global login form with wrong username" finished-at="2023-01-24T14:21:20 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFormWithWrongUsername -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="84" started-at="2023-01-24T14:21:20 CST" finished-at="2023-01-24T14:21:20 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="7588" started-at="2023-01-24T14:21:20 CST" finished-at="2023-01-24T14:21:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="2719" started-at="2023-01-24T14:21:28 CST" finished-at="2023-01-24T14:21:30 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateLoginFormWithWrongPassword()[pri:7, instance:scripts.LoginFormTest@4cf777e8]" name="validateLoginFormWithWrongPassword" duration-ms="1985" started-at="2023-01-24T14:21:30 CST" description="Validate Tech Global login form with wrong password" finished-at="2023-01-24T14:21:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFormWithWrongPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="85" started-at="2023-01-24T14:21:32 CST" finished-at="2023-01-24T14:21:33 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setup" is-config="true" duration-ms="8185" started-at="2023-01-24T14:21:33 CST" finished-at="2023-01-24T14:21:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setPage()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="setPage" is-config="true" duration-ms="2471" started-at="2023-01-24T14:21:41 CST" finished-at="2023-01-24T14:21:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="validateLoginFormWithWrongUsernameAndPassword()[pri:8, instance:scripts.LoginFormTest@4cf777e8]" name="validateLoginFormWithWrongUsernameAndPassword" duration-ms="1743" started-at="2023-01-24T14:21:43 CST" description="Validate Tech Global login form with wrong user name and password" finished-at="2023-01-24T14:21:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFormWithWrongUsernameAndPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.LoginFormTest@4cf777e8]" name="tearDown" is-config="true" duration-ms="84" started-at="2023-01-24T14:21:45 CST" finished-at="2023-01-24T14:21:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- scripts.LoginFormTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- scripts.LoginFormTest -->
+</testng-results>
