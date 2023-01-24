@@ -6,6 +6,7 @@ import org.testng.annotations.BeforeMethod;
 import pages.BasePage;
 import pages.FrontendTestingHomePage;
 import pages.LoginFormPage;
+import pages.ResetPasswordPage;
 import utilities.ConfigurationReader;
 import utilities.Driver;
 
@@ -14,6 +15,7 @@ public class Base {
     BasePage basePage;
     FrontendTestingHomePage frontendTestingHomePage;
     LoginFormPage loginFormPage;
+    ResetPasswordPage resetPasswordPage;
 
     @BeforeMethod
     public void setup(){

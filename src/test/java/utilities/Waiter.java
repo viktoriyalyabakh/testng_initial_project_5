@@ -24,4 +24,5 @@ public class Waiter {
     public static void waitUntilTitleIs(String title, int seconds){
         new WebDriverWait(Driver.getDriver(), seconds).until(ExpectedConditions.titleIs(title));
     }
+
 }

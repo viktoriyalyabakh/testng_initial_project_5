@@ -2,6 +2,7 @@ package pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import utilities.ConfigurationReader;
 
 import java.util.List;
 
@@ -25,6 +26,20 @@ public class LoginFormPage extends BasePage{
 
     @FindBy(id = "forgot-password")
     public WebElement forgotPasswordLink;
+
+    @FindBy(id = "success_lgn")
+    public WebElement loginSuccessMessage;
+
+    @FindBy(id = "logout")
+    public WebElement logoutButton;
+
+    @FindBy(id = "error_message")
+    public WebElement errorMessage;
+
+    public void enterUsernameAndPassword(String username, String password){
+        inputs.get(0).sendKeys(username);
+        inputs.get(1).sendKeys(password);
+    }
 
 
 
