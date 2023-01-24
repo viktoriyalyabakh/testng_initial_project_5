@@ -33,7 +33,10 @@ public class LoginFormPage extends BasePage{
     @FindBy(id = "logout")
     public WebElement logoutButton;
 
-    public void enterValidData(String username, String password){
+    @FindBy(id = "error_message")
+    public WebElement errorMessage;
+
+    public void enterUsernameAndPassword(String username, String password){
         inputs.get(0).sendKeys(username);
         inputs.get(1).sendKeys(password);
     }
