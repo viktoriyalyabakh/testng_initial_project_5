@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf7726ab-9de5-4e96-96b8-561ec2b909b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginFormPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/scripts/Base.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/FrontendTestingHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/FrontendTestingHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginFormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/scripts/LoginFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/scripts/LoginFormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Waiter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,69 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.LoginFormTest.validateLoginFormCardValidLoginAnaLogout">
+    <configuration name="LoginFormTest.validateLoginFormCard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng_initial_project_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.LoginFormTest" />
+      <option name="METHOD_NAME" value="validateLoginFormCard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFormTest.validateLoginFormCardValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng_initial_project_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.LoginFormTest" />
+      <option name="METHOD_NAME" value="validateLoginFormCardValidLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFormTest.validateLoginFormCardValidLoginAnaLogout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng_initial_project_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.LoginFormTest" />
+      <option name="METHOD_NAME" value="validateLoginFormCardValidLoginAnaLogout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginFormTest.validateLoginFormCardValidLoginAnaLogout" />
+        <item itemvalue="TestNG.LoginFormTest.validateLoginFormCardValidLogin" />
+        <item itemvalue="TestNG.LoginFormTest.validateLoginFormCard" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
